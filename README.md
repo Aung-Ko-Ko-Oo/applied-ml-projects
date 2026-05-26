@@ -12,5 +12,6 @@ The project is built entirely on production-style decoupled files instead of sta
 
 1. **Clone the environment workspace:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/housing-market-predictor.git](https://github.com/YOUR-USERNAME/housing-market-predictor.git)
+   git clone [https://github.com/YOUR-USERNAME/housing-market-predictor.git](https://github.com/sage2029/housing-market-predictor.git)
    cd housing-market-predictor# Data-Science-and-Machine-Learning-Project
+# Data-Science-and-Machine-Learning-Project

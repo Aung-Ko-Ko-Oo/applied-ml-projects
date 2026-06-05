@@ -11,4 +11,4 @@ ENV/
 **/data/
 **/models/*.joblib
 **/models/*.pkl
-.ipynb_checkpoints/
+.ipynb_checkpoints/.DS_Store

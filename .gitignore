@@ -1,0 +1,14 @@
+# Cache & Compilation
+**/__pycache__/
+**/*.py[cod]
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Project-Specific Artifacts (Crucial for Monorepos: prevents local files from cluttering GitHub)
+**/data/
+**/models/*.joblib
+**/models/*.pkl
+.ipynb_checkpoints/

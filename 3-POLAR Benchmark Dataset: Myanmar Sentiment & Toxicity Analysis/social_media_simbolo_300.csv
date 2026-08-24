@@ -1,0 +1,301 @@
+﻿ID,Text,Task 1,Political,Racial,Religious,Gender,Other,Keywords,Keyphrase,Source Link
+mya_2f6ec263,မီးရှို့ ပစ် မယ် မ ဝင် တော့ ဘူး ကွာအသိမ်း တော့ မ ခံ ဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_bfd00076,သာသနာညိုးနွမ်းအောင်တော့်မလုပ်ဘူးနော် သာသနာပျက်အောင် ညိုးနွမ်းအောင်လုပ်တာမှသတ္တဝါအပေါင်းရဲ့ရန်သူအစစ် သာသနာမရှိလျှင်အဆုံးအမသာသနာကွယ်သဖြင့်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c2f96d68,အဖားကြမ်းလှချည်လား ဖြည်းဖြည်းဖားပါ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_706107f0,လခွမ်း ပေါ လိုက် တဲ့ အနုပညာရှင် တွေ ရယ် မြန်မာ တစ် နိုင်ငံ လုံး များ အနုပညာရှင် တွေ ဖြစ် ကုန် ကြ ပီလား မ သိ ဘူးစိတ်ပျက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c10a6a0f,ဆောက်အိုမ အမေရိကာ မှ သွား နေ လိုက် လေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_bfb1bf08,အဖုတ်တခုကြောင့်နာတယ်လို့ပြောတဲ့ကောင်မအများစုကဂျွန်ဝိုင်းတို့မင်းသွေးခန့် တိုင်ရွန် ဘစိုင်း bts exoထိရင်ဖျင်ဆီဖူးခါအောင်ဝိုင်းကိုက်မယ်သုတ်ကြောင်မတွေချည်းပဲkyttကသူတို့ထက်လှနေလို့မနာလိုတာမဆန်းပါဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9c615890,ဟားဟားဟား မင်း တစ် ယောက် ပဲ မ သိ တာငလူးတော သား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3b5c3933,လှည့်ကွက် က တော့ လှည့်ကွက် ဘဲ ။ သူ များ ကို ပေ စေ ချင် လို့ ကိုယ်တိုင် မစင်ကိုင် ပြီး ပက် တဲ့ သူ တွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ae35ca5d,သောက်ရူး တွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_53f24fb9,သူ များ ​ဟောင်​တိုင် ​း လိုက် ​​ဟောင်​​ နေ တဲ့ ​ခွေး ​ ကောင်​ ​ လေး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_71f572ac,နောက်ထပ်ထောင်ထွက်တစ်ယောက်အမတ်ဖြစ်တော့မယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4274dafe,ခွေးမသား တွေ ပါး တွေ ရိုက် ချင် တယ် ဘယ် လာ ရ မလဲ ပြောမ အေလိုး တွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3e97ec2f,ရူး နေ တာ လဲထမင်း လွတ်ရူး မျက်စေ့နောက် ဒယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ea600eca,ဘယ် နေရား များ မှား ပါ လဲ ထောက်ပြ လိုက် ဖာ သည် တွေ ဖာ သည် မ တွေ ဖြေ လေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3de83efc,စား လိုက် တဲ့ တစ် ရက် တိုင်း စား လိုက် တဲ့ တစ်လုတ် တိုင်း က ကျိန်စာ အသစ် အသစ် တွေ ကို မျိုမျို နေ ရ သလို ဖြစ် နေ ကြ မှာ ပဲ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6dea3134,ဖအေခိုး ပေးတာ နဲ့ ရုပ်ရှင် ထုတ်လုပ် ရေး တွေ ထောင် နေ ကြ တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_45cb14d8,ဖုန်ရှူလိုက်ဖာသယ်မ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_17347991,မေလိုးကလား ကြိုးတုပ်ပီး၀◌က်သားကျွေးမာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3c2a0fbc,ကို မေ ကို လိုး နဲ့ လာ ဂျင်း မိ ရ တယ် လို့ မ အေလိုး က မ သေ နိုင် သေး ဘူး လား 😑 😑 😑,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_fe153394,စောင့် လိုက် ကြ ပါ မ ကြာေ တော့ ပါ ဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_dc280d65,ဖေလိုးမ စကား ကို နင့်ဟာ နဲ့ လိုက် အောင် နှစ် ချမ်း ကွဲ ပြော နေ တာ အရင် အင်တာဗျူးကျ နှစ် ယောက် ထဲ ယောက် ကျား လေး အား နဲ့ ရုံးမ ရ ဘူး ဆို ယောက် ကျား နဲ့ မိန်းမ ဘယ်လို နိုင် မလဲ ဆို ခု ကျ တော့ မိုးမ မြင် လေ မ မြင် နဲ့ ဆို တော့ ဘယ်လို လဲဟ ခံ ချင် တိုင်းခံ ပြီး နင့်ဟာ နဲ့ လိုက် အောင် နှစ် ချမ်း ပြဲ အောင် ပြော နေ တာ လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6369ac1f,လူ တိုင်း ရဲ့ မေတ္တာ နဲ့ ဝေး ကြ ပါ စေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ec184c62,ငါးလိုးဂျပု လူသာအစဉ်မမှီတာ သောက်စကားကြ သောက်ပေါက်နဲ့မဆံ့ပြောချင်တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_405155fc,မင်းတို့ကိုးကွယ်ပြီထိုင်ရှိခိုးနေတဲ့ ဘုန်ကြီတွေ ခွေးပြေးဝက်ပြေး ပြေးရပြီ ကတုံးကို စစ်ဖိနပ်နဲ့တတ်နင်ခံရတာ နည်းသေးလို့လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_499e9ee5,ဆုတောင်း လေ ဘူဗောင်း ကြီး ကြီး ရ အောင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_104c26fe,ဘက်စုံ ဒုက္ခပေး နေ တာ ဘဲ . .,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_33833249,ပြောင်တာ စတီးပဲကောင်းတယ်ကွာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_2e11b05d,ငါ တို့ နိုင်ငံ က ဟာတေ က တော့ ဘယ်လောက် အပြော ခံ ရ ခံ ရစောက် ကရု ကို မ စိုက်တာ စောက် ရှက် မှ မ ရှိ ဘဲ လုပ်မြဲ တိုင်း လုပ် နေ ဆဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8f33f81e,မင်းတို့ပထွေးစစ်ခွေးတွေရောင်းတာမြန်မာပြည်ကမင်းရဲ့ဂတုံးလိုပဲဖြစ်နေပြီစောက်ရူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c7e87006,လူယုတ်မာ ကို လူယုတ်မာ နဲ့ ထိုက်တန် တဲ နေရာ မှာ နေ ခိုင်း သင့် တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5533e5ce,ပြည်သူရယ်ကမ္ဘာကလူတွေရယ်ဘယ်လိုသဘောထားမှတ်ချက်ပေးလည်းဆိုတဲ့အပေါ်မှာမူတည်တယ်ကိုယ်ကျင့်တရားကစကားပြောတာ‌ေပါ့ငါကတော့ထွီးချီးထက်ရွံတယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c89742be,အစားအသောက် ကြမ်း တဲဝက ခ တွေ ထိ ထိရောက်ရောက် အရေးယူ ပြီး ပြီ လား ? ရွေးကောက်ပွဲ ကတိ တွေ တခြား ဟာ မ တည်ရင် နေ ပါ စေထောင်ဝင် စာ လာ တွေ့ မယ် ဆို တာ လေး တော့ တည် ပါစေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_51fd7a47,ကိုယ်​့ အဆင်​ ့ ကိ်​ ု သိစမ်​ း ပါ ​ ခွေး ​ ​ ကောင်​ ရ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_73d04d9d,ငလိမ်ငဝါ ဘယ် တုန်း က မ အမှန်မ ပြော တဲ့ လူ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e19fe55f,ခနလေး ငါ့ လင် ဖိနပ် ရောင်း နေ တယ် မ အား သေး ဘူး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3c657852,ဟိုဟာကိုသွားစုပ်လိုက်ကြအုံ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6a13ccf0,သုတ်ကြောင်မ တွေ ကို လင်မှတ် နေ တဲ့ ဟာမ တွေ ကိုး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0f8e241f,စောက်မြင် ကပ် ပုဒ် မ တွေ က စစ် အစိုးရ ခေတ် က အတိုင်း ဘဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7d7e2957,ဖွတ်တွေကတော့သူများမကောင်းကြောင်းပြောရမယ်ဆိုနှစ်ယောက်မရှိ့ဘူးဖွတ်စိတ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0aa8c907,နာမည် အရမ်း ကြီး ချင် ရင် ဖင် အလကားခံ လိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8bbdcf3f,ရဲ တွေ စောက်ကျင် မ ကောင်း တာ များ တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_314fd081,ကာလုံခေါ်ပြီး မင်းအမျိုးတွေ ဖာတန်းဖွင့်ခိုင်းရမှာလား မင်းအောင်လှိုင်လီးစုပ်ကောင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ce644e86,ပါးတခြမ်း လေဖြန်းထားတာလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_00053b2c,အေးပါ တောသူမရယ် မြန်မာလူမျိုးဖြစ်ပြီး မြန်မာစာလုံးတောင်မှန်အောင်မပေါင်းနိုင်ဘဲနဲ့ စာလုံးများ မှန်အောင်ပြင်ပေးခဲ့သည်🤣😂,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f03e5f81,ပြော ထား တဲ့ သူ များ အောက် မှာ ခွေးဝိုင်း ဟောင် ရင် ဝိုင်း ပြီး ရေ နဲ့ ပက် ပေး ပါ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9ffa0985,မင်းတို့ပါတီမရှိခင်ထဲကဗုဒ္ဓဘာသာအိမ်တိုင်းဘုရားစင်ရှိနေသားပဲမင်းတို့အခိုးရလုပ်ခါမှလွတ်တော်ထဲကလားရောက်လာတာ သမိုင်းတရာခံတွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_aa17bf7e,AAက ပြောကြား ချက် က အဓိပ္ပါယ် မ ရှိ ပါ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_85f41d29,မျက်နှာလီးရုပ် နဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_fa5dd163,အသေထွက်မှာဆိုရင်လုပ်လိုက်လေပြည်သူကအသေထွက်ကြိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6b63a48a,လက်နက် ကိုင်ပီး ပြည် သူ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8046d188,ကမ္ဘာ ပေါ် မှာ ဖင်ကောင်း အကျယ်ဆုံး လူသား များ အ ဖွဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_699c02bd,မင်းအောင်လှိုင် ဘောငုံ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_99e0e089,ကိုယ်ချင်းစာစိတ်မရှိ သူ တွေ တူညီ စွာ ခံစား မူ တွေ ပြန် ခံစား ရ ပါ စေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f721d513,ကိုကိုယ်တိုင်တောင်စောက်တလွဲပြောနေတဲ့ လူစဉ့္မမှီတဲ့စောက်ပုစကားကို စောက်ထင်ကြီးစရားကိုမလိုတာကွာ ရှင်းလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_58dc413d,ဆိုင်ကယ် ကြိတ် သေ ဆိုင် ကယ် တိုက် သေ ဆိုင် ကယ်မှောက် သေ ဆိုင်ကယ်မီးလောင် ပြီး သေ ပါ စေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_af4b5333,ကိုယ့်ကိုယ်ကိုယ်ပြန် ကြည့် လေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_af3af9cd,ဦးလေး တို့ ယီး လို့ မ ဆဲ ချင် ပါ ဘူး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_59620bd1,ရုပ် ကို က WYဆေးပြား ရုပ် နဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ef4f0294,ကလိမ် ကကျစ် တွေ ကို ဘာ မှ မ လုပ် နိုင် ရင် ကိုယ်တိုင် လည်း ကလိမ် က ကျစ် ဖြစ် နိုင် ၏ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9dfabe00,စလုံး အဝင် အထွက် က ​ တော့ ပိတ် ဖို့ မ လွယ် နိုင် ​ လောက် ဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a5217ea0,မင်း တို့ လို သူ များ ခိုင်းတာ လုပ် နေ တဲ့ တန်း မ ဝင် တဲ့ ကောင် တွေ နဲ့ စကား မ ပြော ဘူး တဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a0d90034,အစုပ်ပလုပ် ဒီဇိုင်း တွေ ဝတ် ပါ အုံး လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_dd73bc59,အစွန််းရောက်နွားတေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_977e1c49,မသာကျ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_dc86ab95,သားသမီး ချင်း ကိုယ်ချင်း စာစိတ်မရှိ ၊ အဓမ္မ ဒုစရိုက် အားပေးရဲ တပ်ဖွဲ့အလို မ ရှိ ပါ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0227f1b5,ဦးနှောက်လေးလဲဓာတ်မှန်ရိုက်ကြည့်အုံး သုတ်ပိုးတေခေါင်းထဲလာစုနေတာထင်တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1f160468,ဖေလိုးမ ဘယ်ကလည်း နင်ပုံပြစမ်းပါ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f28446e1,ကို့ အသက် ကိုယ်ပြန် ကြည့် ကြ ပါ ငါ က မ သေ တော့ ဘူး လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1a044ac2,အာဏာရှင် အောင်ဆန်းစုကြည်ရဲ့ ထဘီခြုံ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1eeecfa1,စလုံးနဲ့ကြံ့ဖွတ်မစားရတဲ့အမဲသဲနဲ့ပက်တော့မယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f662b1b8,လီးလီး လား လား ​​ တွေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9d4d6acf,အလကား ခံ ရင် တောင် ရွံ လို့ လုပ် မှာ မ ဟုတ် ဘူး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_359ce07f,တောင်သူဦးကြီး များ ကို စော်ကား သော် အ ကောင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d0b8ba0c,"""ခင်ဗျားအသက်ကြီးပြီးအချိန်မစီးပါလား""""""",0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_31dabbbb,Lee ကို ညီမလား ငါ လိုး မရိုက်ကလစ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ceb9eda6,ဘောမမ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6d598559,နင့်မေ စပတ် ကိုယ် မေ ကိုယ်လိုး တဲ့ ရဲ တွေ က ဝရမ်း ပြေး ကို ရောဖမ်း နိုင် လို့ လား လို့ အရင် ဖြေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a5ac19dc,နင့်ကို ချမယ့်ဟာတွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_23a7cb78,ကောင်းလှပါတယ်ဆိုတဲ့မင်းတို့အစိုးရကိုဦး​ဌေး​အောင် ကကန့်ကွက်တရားစွဲ​နေပီပြည်ခိုင်ဖြိုး နဲ့ယယုန်​လေးပဲမ​ကောင်း​ပြောဆဲဆို​နေဘို့​လောက်ပဲသိကြတာမရှက်ဘူးလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e0e67e4e,ကိုယ်မေကိုယ်လိုးနှမ လိုးရဲ တွေ စိတ်တို လွန်း လို့ ဘယ်လို ဆဲ ရမှန်း တောင် မ သိ ဘူး ဘဝ ဘဝ အဆက်ဆက် တူ သော အကျိုးပေး ကြ ပါ စေဗျား ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_518b78b4,ဦးဝင်မြိုင်အဖိုးကြီးကိုခွင့်လွှတ်ပေးလိုက်ပါ သေခံနီးနေလို့🙁,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c6563431,RFAဝေဖန်သုံးသပ်ချက်တွေက ကလေးဆန်လွန်းလှ(လေးနက်မှုလုံးဝမရှိ)အစိုးရနှင့်တပ်ညီညွတ်မှာကို စိုးရိမ်နေတဲ့လေသံကများ နှစ်ဖက် အမုန်းပွါး အထင်လွဲအောင်သာ အလေးထားဝေဖန်သုံးသပ်နေကြ၏ဥာဏ်သတိ ရှိကြပါကုန်။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_2153d08a,လူမသိ သူမသိ ခွေးလိုဝက်လို သေရတော့မယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5c40a742,မ အေလိုး တွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_16cd3739,ရုပ်ကြီးကိုက လူလိမ်မ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6e21e554,မ အေလိုးတေ အသေဆိုး နဲ့ သေ ပါ စေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f8153cc8,ဘယ်လောက် လူပါးဝ လိုက် ပါ သလဲ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b9eae747,မသာမ ရယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3664f6bd,မေး နေ တဲ့ အကောင်ရေသူ မိတ်ကပ် တွေ အသေ ဖို့ ထား တာ လေနင် မ မြင် ဘူး လား ဟက် မိတ် ကပ် ကောင်း ရင် ကပ္ပလီတောင်ဝါဂွမ်း လေး လိုဖြူ သွား တယ် ဟဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a72301d4,ပိုဒေါသ ဖြစ် ရ တာ က ငါ တို့ ပြည်သူလူထု အများစု မှာ ဘာ မှ မ ပိုင် ကြ ဘူး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_13b375f3,မ အေလိုးဖိုထောင် ကို မေ ကို လိုးတေ နဲ့ ပေါင်း မင်း ပါ ချင် ဖတ် ဖြစ် သွား ပီ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b58c8a69,စိတ်ရှုပ်စိတ်ညစ် နေ တဲ့ ချိန် ဆို ဘ သူ က နင့် ကို စောက် ခွက် ဖြဲ ပြ မှာ လဲ 😒,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_97d4801a,မသာ ကောင်ဇင် အောင် နင် စောက် ခွက် ကို လဲမှန် နဲ့ ပြန်ကြည့် အုံး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6f320cc6,အဲ့ထမိန်နဲ့ မင်းအဘတွေခေါင်းပေါင်း လေလံပစ်ပြီးယှဉ်ရောင်းရဲလား ခွေးသူခိုး မအေလိုး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c771eb9c,သူခိုးမုဒိမ်းကောင်တွေ အဝီစိသွားဘို့မဲပေးပါ့မယ်ကွာ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d7282f6e,31ဘုံမှာနိဖင်အယားဆုံး ဖေလိုးမ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_be1cef60,စောက်ရှက် ကို မ ရှိ ကြ တော့ တာ ပညာ မ တတ် တော့ လဲ ဒီ လို ပဲ ထင် ရာ ပြော တော့ မှာ ပေါ့ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5c0d6099,စောက် အကြံ တွေ ထွက် လိုက် တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3c6955b1,ဘောပြားကြိုက်တဲ့ဟာမ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1891824d,ဘောမို့လို့ ရိုင်းနေတာလား စောက်ပေါလေး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5d58cf2a,ဖွတ် အစိုးရ ဆို ရင် မ ရင်ဆိုင် ရဲ ဘဲ တိုင်းပြည် အမွဲခံ ပြီး ကိုယ့် အကျိုးပိတ်ဆို့ အရေးယူရေး ကို ရွေး မှာ တော့ အမှန် ဘဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_271b97ee,လီးပဲ ကွာလိ့သံကြီး နဲ့ မ အိမ် လုံး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e91fd707,ပြည်သူလူထု ကို ပွင့်ပွင့်လင်းလင်းချ မ ပြ ဘဲ ရောင်းဝယ် နေ တာ စောက် ထင်မ ကြီး ဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7f6e7a60,မင်းမေလိုးဆုတောင်းနေကြတာလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0e64e6c8,မင်းတ မျိုး လုံး တရုတ် ပြည် ခေါ် အဝှာ သွား လုပ့့်နေက် ကို အစီုး ရ မ ကောင်း ကြောင်း လာ မ ဝေဖန် နဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b1f8b2da,မင့်ကဇမရှိလို့ပြန်မပြေားရဲတာကွာနီပိန်းရင်ပိန်းတယ်ပြေားစမ်းပါကိုယ့်ဟာကိုအသာနေလိုက်ဒါတင်မင့်အဆင့်ဘယ်လောက်ရှိလဲသက်သေပဲနိင်ငံရေးလူတွင်ကျယ်လာမလုပ်နဲ့တာ့တာနီပိန်း,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_dcae84a0,ခွေးလိုူး မသား ရဲ့ မင်းလို ခွေးမျိုုူ တွေ ရှိ လို,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e2530c74,ဒီ ကောင် တွေ အသွေး Korea က ဝက်ပုတ် လို လုပ် ချင် ကြ တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4199dd9b,အမသာ ဖစ် ချင် လို့ အရှက် မ ရှိ လှန် ပြ နေတာ ကွ ကို သာ ပိုရှက် သင့် ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0e5d0a5b,ဆရာဝန် ဆို တဲ့ ပညာ တွေ နှမြော စရာ ကောင်း လိုက် တာ ..အကုသိုလ်ယူ မနေ ကြ ပါ နဲ့ လေ.. ဘယ်သူ တွေ တွေ ဘာ ပြော ၂ ဒီလို လူ တွေ က အရွဲတိုက်ပီးရင်း တိုက် နေ မှာ ပဲ လေ..လစ်လျူရှု့ ထား လိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7340cb8e,ရွံစရာ ကောင်း သွား ပြီ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e6026ed8,အဘွားကြီးသေခါနီးနေတာတောင်အသိတရားမရသေးဘူးအမှန်မပြောရဲပါလားနော်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9be2529e,ဘုမ သိ ဘမ သိ နဲ့ သိုင်းလောက ထဲ ဝင် ယောင် ပြန် ပြီ မေချောက် ဖုန် ဖစ် ချင် နာ လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8b4ed27e,မဇင်ရှင် ဘယ်လောက် တတ် လဲ ဖြန်းးး ဖြန်းးး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_dd174a70,မျက်လုံး ကချဲ့ ထား တာ လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4c43c81a,ကောင်မ ဆေးကြောင် နေ ပုံ ရ တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_338e8fba,နင့်ပထွေးတွေနဲ့တုန်းက နင် ချီးတောင်ပေါက်ရဲလို့လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c5893a61,ကောင်မရယ်တော်တော် အရှက် မ ရှိ တာ ပဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_92010202,အဲသလို ကလေး က လား အသံ တွေ နဲ့ မဆို ဖို့ မ သင် ပေး လိုက် ဘူး လား မင်း ကို မွေး တဲ့ အမေအို ကြီး က မ သင် ပေး လိုက် ဘူး လား မိ ဘညံ့ လိုက် တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_18accbe8,ဘယ်သူ့အားကိုးနဲ့ပါတီထောင်တာလဲ။ မျက်နှာဖုံးတွေ ကွာကျကုန်ပြီ။ အခုဆို ပြည်သူက သေချာသိသွားပြီ။ ဘယ်သူတွေကို မဲပေးရင် စစ်ဖိနပ်အောက် ပြန်ဝင်ရမယ်ဆိုတာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f52ebb2b,မင်းအဖေက မင်းအောင်လှိုင်လေ သိလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8363880f,ငါ မွေး တဲ့ ခွေး ငါ ကျွေး တာစားပီးနေ့ စဥ်နာနာဟောင်း ပေး နော်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0bdafba4,မ အေလိုး တွေ က တဂိုး မှ သွင်း မ သွား ဖူး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_971cae10,အလိုလို မှ တိုင်းပြည် ကို က မိန်းမ လုံခြည်ခြုံ မိန်းမ ကြောက်ဒီ လို အချိန် ဒီလို အသိမဲ့မယား ကြောက်ကောင် ကို သယ်မယ် ဆို တော့ ဒုတိယ မ္ပိလုံချည်ခြုံ တိုင်းပြည် မိန်းမ အုပ်စိုး တိုင်း ပြည် ဖြစ် အောင် သက်သက် ဖန်တီး လိုက် တာ ဘဲ ဒါဆို ကျိန်း သေ တိုင်းပြည် ပျက် မှာ မြင် သေး ။ ။ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ae21a0f3,ဥက္ကဌ ၊ ငှက္ကဌ ဘယ်ဟာအမှန်ဖြစ်ပါသလဲမသိလို့နော်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_cc3ed98c,မင်း ကို မြင် တိုင်း သိန်း တန်မ အေ ဘဲ ကို သတ် ချင် တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ea4ebc22,ကာပုနဲ့သန်းဌေးကိုပဲ အဖေနေရာထားကိုးကွယ်နေလိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e9ef166b,သူခိုးစားခွက်ပျောက်တွေရဲ့တုံးတုံးအအအကြံဥာဏ်နဲ့အောက်တန်းစားမှိုင်းတိုက်နည်းများးရိုးနေပြီအသစ်တွေထပ်ရှာပြီးလေးဖက်ကုန်းပြီးပြန်လာလိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f7b704c4,ဖမ် တဲ့ သူဖင်လိုးပြစ် ကွ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4184c535,ဖွတ်သူခိုး ဆရာ များ ဖြစ် ပါ သည် မြို့နယ် တိုင်း ပြိုင်လဲ မ ရ နိုင် တော့ ပါ လူယုတ်မာ စစ် အုပ်စု အကြံပေး တွေ ဆို တာ ပြည်သူ နားလည် တယ် ဖွတ် သူခိုး ဆရာ များ ခင်ဗျား တို့ က ဖွတ် တွေ ကို အကြံပေး တယ် ခြေ မ မြဲ လက်မြဲ အောင် လုပ် ထား တဲ ဆိုလိုရင်း က အာဏာ မ မြဲ ငွေ မြဲ အောင် လုပ်ပေါ့ဒါ နဲ့ ဖွတ် သူခိုး တွေ က တိုင်းပြည် သယံဇာတ တွေ အုပ်စု လိုက်ခိုး အာဏာမြဲ ရေး အတွက် ပြည်သူ တွေ ကို အကြောက်တရား ဖြစ် အောင် ခိုးဆိုး လုယက် မုဒိန်းကျင့် လူသတ် အားလုံး လုပ် ပြီး တော့ အပေါင်း ပါ များ ကို မင်းတ်ု့အခွင့်ရေး ရ တုန်း လုပ် ထား ကြ လို့ မှ တမ်း ချွေ တယ်တကယ် လဲ လုပ် တယ် တ်ုင်း ပြည်မွဲ ပျက် သွား တယ် ခင်ဗျား တို့ သိ အောင် ပြော လိုက် မယ် မြန်မာ ပြည် မှ ပြုတ် ပြီး သား ပါတီ တက် လာ တဲ့ ထုံးစံ မ ရှိ ဘူး ဦးနု ရဲ့ ဖဆပလ မြောင်း ထဲ ရောက် တယ် မဆလတ ဖြစ် လဲတစည ရေ ဝေး ရောက် တယ်ဒီတခါကြံ့ဖွတ် နဲ့ ဆရာတစည ထိန် ပင် သင်း ချိုင်းရောက် မှာ ပါ ခင်ဗျာ အမျှ အမျှ အမျှ ပါ ပြည်သူ များ ပြုသမျှ ကောင်း မှု ကြောင့် ကြံ့ဖွတ် ပါတီတစည ပါတီ များ ကောင်း ရာ သုဂတိလား ပါစေး း း း,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1c1c32e7,ချီးကားက မင်းဖင်ကို ဝင်ချမှာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f8869ffe,အမျိုးသမီး ပွဲ နည်းပြ ဖြုတ် နည်း ပြ ညံ့ လို့ ရှုံး ရ တာ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f32d52b4,အသေဆိုး နဲ့ သေ ပါစေ လို့ ဆု တောင်း တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ffb2e250,ပိုက်ဆံရှိတဲ့သူတွှေအတွှက်သာကောင်းတဲ့ဒီမိုကရေစီပါ လက်လုပ်လက်စားဘဝတွှေကိုမကြည်ပဲ လုပ်ချင်ရာလုပ်လို့မရဘူး ကုန်စျေးနှုံးအဓိက တနေ့လုပ်အားခ ကစားဖို့အနိုင်နိုင်ရယ် မှန်တာအော်တော့ ကုလားမယားတွှေက နာတယ် ကုလားကိုကုလားလိုမခေါ်လို့ ခွှေလထိပ်ကိုးကွှယ်တဲ့သူလိုခေါ်ရမလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0eefa066,မ အေလိုးဒီ သတ္တလောက ကြီး မှာ သည်းခံ လို့ မ ရ တဲ့ တစ် ဦး တည်း သော အခွက် နဲ့ အသံ နဲ့ လူသား ပါ ကွာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_709d64d9,ပြည်တွင်းစစ်ပွဲက မဖြစ်ဖြစ်အောင်လုပ်နေတယ်လုိ့ ကလေးအစ ခွေးအဆုံးသိတယ်ကွ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b9702c32,ဖွတ်မစိတ်နေတယ်ဗိုက်ပူချင်လို့လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_786b5973,အမ ပြော တာ မှန် တယ် မီဒီယာ တွေ က အသား ထဲ က လောက် ထွက် နေ တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_23dbd1c6,တောသား တွေ က မင်းနှမ ကို သတ် လုပ် လိုလား ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4bc769ef,ခွေးကျင့် ခွေးကြံ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1a317abc,ရွံတာ အန် ချင် တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1755a1cb,မင့်တို့ပြည်ထိုင်ခိုးဆိုရင် ပိုတောင်ဆိုးသေး လူတကာချဥ်ဘက်😂😂😂😂,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e9a9bc65,ဒေဝဒတ်လိုဟာတွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_626a5bc2,PPPက ဆိုက္ကားဆရာတွေဆီမှာ ခံလိုက်ရတယ်တဲ့ ဟုတ်လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_660e413f,အော် အသက်တွေလဲကြီးပီအခုချိန်ထိ လိုချင်နေတုန်းပီးရင် စောက်ရူးတွေကသနားပြကျအုံးမယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7fce8078,မင်း နိုင်ငံ ရေး လုပ် ချင် လား အချိန် မ ရွေး လုပ် လို့ ရ တယ် ဒါ ပဲ အရင် ထောက်ပြ အုံး မယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_40c9e237,ဗမာဘယ်လိုပြောပြောမယုံနိုင်ဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_20362adf,ဦးနှောက် က အေးမြဖြူ ဖင် လောက် မ ဖွံ ဖြိုး သေး လို့ ဖြစ် မယ် ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8b00daad,ဖင်ယားနေတဲ့ဘောပြား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6277b6bb,ကို မေ ကို လိုး ကို ပြော ပြ လိုက် ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6fdfdfcb,ကျက်သရေအတုံးဆုံးလူတွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_34dc466a,ပြည်သူချစ်တာ မခံရမှာကြောက်တော့ အမှားအမှန်းတောင် မခွဲခြားတတ်တော့ဘူးနော် သနားစရာကောင်းလိုက်တာ ကျွတ်ကျွတ် ကျွတ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e4f6dbe8,ဒီ ဘဲ ကြီး တော့ ပွ တာ ပဲ ဗျို့ နာမည် အရမ်း ကြီး ချင် နေ တဲ့ redmiss ရွှေအိမ်စည် နဲ့ အောက်ခြေ လွတ် နေ တဲ့ usaပြန် ဟန် သီသောက် ရှက် မ ရှိ တဲ့ ကောင်မ တွေ ဂုဏ်ယူ နေ ပေါ့redmiss ပို ဆိုး တယ် ရွစိ ဒါ လား နိူင်ငံ ကိုယ်စားဝင် ပြိုင် ချင် တယ် ဗိုက် ကြီး နေ လောက် ပြီ လဲ သေ ဖို့ ကောင်း တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_eb6c1b2d,ရုပ်က ကြိုက်ဟင်းခါးသီးမြင်း လီးရုပ် နဲ့ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7c7092ea,ငါ လိုးမ ၊ ချဉ်ပေါင်ရိုးမဒုတ်ထိုး မအီကြာကွေး တစ် ပိုင်း ပြတ်မ စမူဆာကြွက်ကိုက် မ အာဝါဒါး မတဆယ့်ဖိုး ၃ ယောက် မငံ ပြာရည် မရင် ထုလင် လုခေါင်းအုန်း မ ဖက်လုံး မအမ်းကုန်းမမန်း ကျီးရွက်ပိုးကိုက် မ အော်လီမ ဒူးရင်းသီး မော်တာ တပ်မတော် သလင်း ဖော် က မြင်း မ မျောက် ၂ ပိုင်း ၁ ပိုင်း မ ဖိနပ် ခေါင်းအုန်း အိပ် တဲ့ ဟာမဖေ တစ်ရာ မောင် တစ်ကျိတ် နဲ့ တွေ့ လို့ ဖင် ပြတ် သေ မယ့် မသာမက လေကချေအုတ်ကြား မြက်ပေါက်လမ်း ဘေး ချီးယို ဓာတ် တိုင် သေးပန်း ပလပ်ဖောင်း ခေါင်း ခု မိုး ရွာ မှ ရေချိုးအလှူ ရှိ မှ ထမင်း စား တဲ့ အမြှီးတိုမ ဘင်္ဂလီမယား ငယ် မမသာ အိမ် ကွာစိနိုက် မ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_026450a5,ဖင်ပြေးခံ လိုက်လီးရုပ် နဲ့ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_668f1ba1,မိန်မ ဆို တာ က ငွေ ရှိ ရင် ပျက်ဆိး ကြ တာ မျာ တယ် ကြ မ တွန် လို မိုး မ လင်း ဘူ ဆို တာ သိ ပိ လား ယောက်ကျား တွေ မ ရှိ တဲ တိုင်းပြည် လုံခြုံ မု မ ရှိ ဘူ ဆို တာ သိ ပိ လာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e2c92e37,ထမီခြုံရင်လဒဖြစ်တယ်ဆိုတာကိုနှစ်သက်လို့ဖြစ်ပါလိမ့်မယ်အစကတော့ဒေါင်းဆိုပြီးအားပေးကြတာဗျာနောက်ပိုင်ကျမှပန်းချီဆရာမကောင်းတော့ပြီးခါနီးက်သမှလဒပုံဖြစ်သွားတာပါကျ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_228588cb,ငိုစရာ လား လ ခွမ်းယောကျားဖစ် ပီး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_38bd4868,ပြည်သူ တွေ အရည်အချင်း ရှိ လာ ရင်ခင်းဗျား ကြီး ဂျင်းထည့် လို့ ရ မှာ မ ဟုတ် တော့ ဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5eaf38ef,ငါ အဖေ တောင်လန့် နိုး လို့ ဆူ နေ p ဘယ်ဂတတောင်းစား လည်း တဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_736e7ddc,နိုင်ငံတကာထောင်ထဲသွားပီး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7e90b86c,ယုတ်မာ တဲ့ သူ တွေ လက် ထဲ အာဏာ အရှိန်အဝါ လေး တွေ ရှိ နေ တုန်း တော့ ယုတ် ကြ စမ်း ပေါ့ အားကိုး ရှိ လို့ ပါ အမှန်တရားပျောက် နေ တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c3d20668,ခွေး နဲ့ လိုးပီး များ မွေးတာ လား မ သိ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_371b1863,ကမ္ဘာပတ်ကျောက်ချ ပြီး သူ မျက်စေ့ကျ တဲ့ နိုင်ငံ ကို ပိုင် မှ ရှယ်ကိုင် တာ တစ် နှစ် ကို 600$ ဘီလီယံ လောက် စစ် အသုံးစရိတ် ရှိ တဲ့ နိုင်ငံ ကို ဘယ်ကောင် မှ နဖူး တွေ့ ဒူး တွေ့ လက်တွေ့ သွား ပြီး ဖင်မယား ရဲဘူးယား တဲ့ ကောင်ခံ ရ တာ ပဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_162e7c16,ဘယ်​ဂျောင် ဂြို ​​ ဂျား က​နေ​ဟောင်​နေ တာ လဲ အရပ်ပျက် မ ကြီး ရဲ့။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_21b33878,အသက်ရှင်စဉ်သဌေးကြီးတဲ့သေတော့ခွေးကြီးဒါမျိုးပေါ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7661553a,အဲ့လိုပဲဘတ်ကန်နေလီးပဲညိမ်းချမ်းလိမ့်မယ်အခြေနေပေးသလောက်နဲ့ညိမ်းချမ်းရေးလုပ်မယ်မရှိဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_40f9cc55,သြော် မဆဲချင်ပေမဲ့ဆဲရအု့းမယ်ငါလိုးမသားဇာဂနာပျိုးထမ်းတဲ့တံဖိုးနစဖက်ချွန်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_261a89a4,ရွှေဝါ ရောင် အရေးခင်း က ကမ္ဘာကျော် သွား တယ် ခု မင်း တို့ အရေးအခင်း က မသာ ပေါ် ဖို့ ပဲ ရှိ တယ် ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a0cd29a2,အားနေ ဘလိန်းမနေနဲ့ စောက်ဖုတ်ထဲလက်နှိုက်နေလိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7e7bf9b9,ယုတ်မာ သူ အားလုံး ထမင်းစား တိုင်း ၊ ည အိပ်ယာ ဝင် တိုင်း ယုတ်မာ ခဲ့ ဖူး သမျှ ပြန် တွေး မိ ပါ စေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a849cdf4,မင်းမေလိုးသက်သက်ခိုင်လိုက်စည်းရုံးနေတာကြမပြောဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c040eb3b,ဘယ်လောက် လုံလုံခြုံ ခြုံ ဝတ် ထား လည်း စိတ်လုံခြုံ ဖို့ လို တာ ပါ တဲ့ ။ အေးချမ်း လိုက် တာ ။ ကိုယ် ဆို ရင် တော့ လဲကျ သွား ရင် ပြေးကန် မှာ ။ ဆွဲ ထူမ နေ ဘူး ဒီ လို လူစား ကို,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d0af65f1,အရူးမကြီးပါကွာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7dfd7ee7,မိမ နိုင် ဖမ နိုင်မသားသမီး တွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_dafc1f92,အောက်တန်းစား အမျိူး အနွယ် တွေ လေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_af678437,အရူးစကား ချီးစားပြောတောင် ယုံရခတ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_76410815,အမှန် သိ တဲ့ လူ က ဖြေ‌ ပေး ရင် ရ နေ တာ ကို ဘာ တွေ အရမ်း ဖြစ် နေ တာ လဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_cd84884e,မင်း အမေဘာ စောက် သုံး ကျ လို့ ဖာဆန် ပြီး အူ နေ ရ တာ လဲ မ ပြော ချင် တော့ ပါ ဘူး ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f471ea63,မဲမဲမြင် အကုန်ပြေးကိုက်နေလိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_97fe136e,ပြည်သူ့ အစိုးရ ဆို တာ ဒါ တွေ ရှင်း ရင်း မ တရား အဖွဲ့ ‌ ေ တွ ကို မြေလှန် ရ မှာ လေ ။ စာအုပ် အစိမ်း ကိုင် ထား တာ သူ တို့ ကိုယ်တိုင် ဖြစ် နေ လား စဉ်းစား မိ လား မ သိ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_79118ebd,ဖင်ပြေးခံလိုက်လေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5aacfe64,ဟိုမအေလိုး ဒေါက်တာ တယောက် ရှိ သေး တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e9c7583d,စိတ်ညစ်ဖို့ အရမ်း ကောင်း တာ ပဲအစ် ကို တွေ မောင် တွေ မရှက် ကျ ဘူး လား မ သိ ဘူး အဲ မျက်နှာ နွေ လဲ ဘယ် စောက် ဖုက် ကျား ရောက် နေ လဲ မ သိ ဘူး နော်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_21c0cb4b,ဟားဟားဟားဟား တော်တော်ရေးတတ်တယ်ပြည်ခိုင်ဖြိုးမဟုတ်ဘူး ပြည်ထိုင်ခိုးကုလာထိုင်မှာထိုင်ပြီးခိုးလို့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_30107002,ာက်ရှက်ကို အိမ်သာထဲ ထည့်ပြီး ရင်းထားတာ မပြောကြပါနဲ့ တော်ရုံစောက်ရှက်နဲ့လုပ်ထားတာမဟုတ်လို့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d0c93f9f,ကညန = ဖာ သည် မမူဝါ ဒ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5878f691,မင်း တို့ သူခိုးမ အေလိုး တွေ ကြောင့် ပညာသင် ရ မဲ့ အရွယ် ကလေး တွေ မတန်တဆ အလုပ် လုပ် နေ ကြ ရ တာ မိသားစု ဝမ်း ရေး အတွက် သိ သလား ငါ လိုး မ သား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b7bbf65d,အံမယ်ဘောပြားကိုထားခဲ့မယ်ဘောအစစ်ကိုကိုင်ချင်တယ်အဲ့ ဒ လို လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_93d0d2c2,မြန်မာ့ တပ်မတော် မ ရှိ တော့ ဘူး မုဒိမ်းကြည့် တပ်မတော် ဘဲ ရှိ တော့ တဲဂိုင်းချုပ် က မင်အောင် လှိုင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c873f9ae,အေးဗျာ ဘယ် နိုင်ငံ သွား သွား မြန်မာ ငွေ နဲ့ လဲ ပေး နိုင် အောင် အရင် လုပ် ကြ ပါ အုံး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0a6ff611,မင်းကိူ မင်း အတတ်ကြီး ထင်မ နေနက် သိလား မင်း လည်း ဘယ်ဘ၀ က တက် လာ လည်း ဆို တာ သိမင်း မင်း စောက် ခွက် က ဘာ မို့ လို့ လည်း မေလိုးမ အေလိုး ကို ဖင် ကို လိုး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d7a50af3,ကိုယ်နေရာရဖို့ ကာပုကို သွားဖား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b1df4f39,နှား ဘူး ထ လို့ နန်းပျောက် တာ သယ် စရာ အကြောင်း မ ရှိ ပါ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ad35b303,သေချင်း ဆိုး နဲ့ သေ ချင် လို့ လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_71b37476,ဖာခေါင် တွေ ဖာမ တွေ လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d607e98a,ကောင်မလေး က ဖြူဆွတ် နေ တာ ဟို အဆိုတော် က မဲတော့ သူတော်တော် ဒုက္ခရောက် မှာ သေခြာ တယ် ဂျပန် ကား တွေ ကြည့် ပြီး ဘာ တွေ လုပ် ခိုင်း လဲ မှ မ သိ တာ နောက် ကြောင်း ပြန် မ လှည့် ချင် တော့ ဘူတဲ့ သနား ပါ တယ် ကွာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d8102a86,သနာ တယ်ပူတင် ရေအဘပုဆို မြစ် ကြီးနား လူစီး သ​ဘော် ကို တပ်တော်သွင်း လိုက် ပြီ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7025763d,မအေးလိုးလီး ရုပ် နဲ့ ကွာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_2e3e614c,ချစ်ဆုံးရယ် မင်းအော ကား လေး တေ ကြည့် ဖူး ပါ တယ် အရမ်း ဆွဲဆောင် မူ ရှိ တာ ပဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0403f1ac,မင်း တို့ မ ရှိ လဲ ဘား မှ မ ဖြစ် ဘူး စောက် ရှက် ဆို တာ ဘာမှန်း မ သိ တဲ့ တိရစ္ဆာန် တွေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_96453759,နာမည် အသစ် လေး ရ သွား တာ ပေါ့ထန်းပင် မ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_45d6742a,ဘာခိုး ရ မလဲ လာ ကြည့် တာ ဖြစ် မယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7fa266dc,စောက်ဆံ ပေး ရင် ဖင် ပါ လိုး လို့ ရ တဲ့ အထဲ မှာ မင်း တို့ ရဲ တွေ ထိပ်ဆုံး က ဘဲ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d26283b8,အရမ်းကိုတော် အရမ်းကိုတတ်တဲ့ ဘက်စုံပါရမီရှင်ကာချုပ်ပါ စစ်နိုင်အောင်မတိုက်တတ်တာလေးတစ်ခုပဲ ပြောစရာအပြစ်ရှိတာ😁😁,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_da92ae63,တစ်ကောင်ချင်းရိုက်သတ်မလို့နအေလိုးလေးတွေစောက်မှန်းကန်းမှန်းမသိ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d3d9c6c1,ဖာခံစား လိုက် ဘာ မှ မ လုပ် နဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c0773ba6,မြန် မြန် သေ ပါစေမ အေလိုး လေး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f29fa0dc,အနူလက်နဲ့ရွှေခွက်နှိုက်လို့ မရဘူးလေ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_93903989,ဘာ များ လှ နေ လို့ လဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8b5ee473,AAပေါ် ပြီး မှ ပြဿနာတခု ပြီး တခုမင်း တို့ အစွဲ နဲ့ အစွန်းရောက် တာ အရင်ပြင် လိုက် ပါ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_112365e2,အန်အယ်ဒီပါတီငနီငပိန်း ထမိန်ခြုံ အနံ့ခံ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_65202853,လီး နဲ့ ကြိုမယ် ငါ လိုး မ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_77cd3e70,ရူး နေ လာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4d336f01,စောက်ပဲ တွေ က များ လိုက် တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_075883d7,ဘယ်လို ပြော ရမှန်း ကို တောင် မ သိ စောက်ရမ်း လမ်းပျောက် နေ ပီ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_812e5745,သူ များ ကို ပြော နေ မယ့် အစားကိုယ့်စောက် အဆင့်အတန်း ကို ကိုယ် အရင် ကြည့် ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_93e84454,ဘယ်လို မသာ လဲဟ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a63afda8,မျက်မှန် နဲ့ ဆို တော့ လီးရုပ်ပေါက် သွား တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b61a6f34,စောက်ရူး မ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_94408e13,မြန်မာ တပြည်လုံး ကို ဒုက္ခ အပေးဆုံး ဂြိုလ် သား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a3c20521,လျောက်မဟုတ်တာတွေပြောနေတာပြည်သူတွေကငပိန်မဟုတ်တောဘူးဟားဟားအာမညောင်းဘူးလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5607828c,ချီးမြှောက် ထိုက် သူ ကို ချီးမြှောက် တဲ့ အတွက် ဝမ်းသာ ပါ တယ် .. မြန်မာ ဘောလုံး အသင်း အတွက် အကုန်ခံ နေ တဲ့ ငွေ တွေ အတွက် တော့ နှမြော မိ တယ် . .,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f6664814,ငါ လိုးမ အစိုးရ ​ တွေ ​ ကြောင် ​့ ​ ငွေ ​ကြေး​ တွေ ​ ဖောင် ​း ရ ​ နေ တာ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_67a91c22,မင်း သတ္တိ ရှိ ၇င် မင်း ရှိ တဲ့ နေ၇ ာ ပြော ငါ လာ မယ် မေလိုး မိန်းမ လို မိန်မ ၇နက် ကို ဖင်ကိူလိုး မေ လိုးသေ ခြင်း ဆိုး စောက် ချိုး လေး တေ ပြူးင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f716647a,မိန်းမရုတ်ကြီး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c5db092f,အကျိုး ပေး တာ မ ဟုတ် ဘူး နင် ပဲ အကျိုး ရအောင် စောက် စကား ကို ပြော တာ လေဒီ ယုန် မြင် လို့ ဒီ ချုံထွင် တာ ကို များ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d48cb25d,အပေါကောင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1ac768b0,ဒီ မအေလိုး ကို သက် ပေး ရင် ဘယ်လောက် ပေး ကြ မ လဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b01fa564,အခု ကျ ပါးစပ် က ပြန် စိ မ ရ တော့ ဘူး နော်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_cebc360f,လီးကိုကြီး မေလိုးထိပ်ပြောင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7f0d175d,ဆပ်ပြာကောင်းလို့ခေါင်းပေါင်းဖြူတာကို မေလိုးကသွေးနထင်ရောက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0bbd81ed,အေကိုက်ခံနေရတာက စစ်တပ်မတော်ကိုယ်ရဲ့ရောဂါအခြေအနေကို ကိုယ်သာအသိဆုံးမို့ကာလုံခေါ်ဖို့ပြောတာကြာနေပြီးရခိုင်ကို အထင်သေးလို့ဖြစ်လာတဲ့ မီးစပဲအဲ့ဒါ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_997cfba1,စာနာ စိတ်မရှိ သူ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_151403c8,စစ်တပ် က အုပ်ချုပ် နေ သ ၍ တော့ ဒီ နှိုင်ငံ နောက်ထပ် နှစ် ပေါင်း တစ်သောင်း ဆို ရင် လည်း ဒီ တိုင်း ပဲ သွား မှာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9a6850ff,စောက်လုံးလည်း ပြူးပြဲကြည့်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ef3598b0,လင်ဗန်းခြင်းရိုက် ကျားကြီးကိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_86c3e03b,ဖွတ်ခွေး တွေ အခု ချိန် မှာ အရှူးမီးဝိုင်း သလို ခံစား နေ ရ ပါ တယ်....... .,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7960662d,မင့်ဖင် ငါ လိုး နေ လို့ လား ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_eb8013dd,အဲဒီကောင်ကအရူးလက်မရထားတယ်ထင်တယ်ဘုန်းကြီးကျောင်းလဲမရောက်ဖူးဘူးစစ်တပ်မှာလဲမရောက်ဖူးဘူးမနက်မိုးလင်းခရာသံလဲမကြားဖူးဘူးတုံးခေါက်သံလဲသူမကြားဖူးဘူးထင်တယ်သူတို့တာဝန်နဲသူတိုလုပ်ကြတာလေခွေးမျိုးမဆဲချင်လဲဆဲနေရတယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_fc7e3f55,မင်းတို့ကိုချီးငုံပြောတာတောင်မယုံတော့ဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4fbc5ad1,ဒီ သောက်ပု ရဲ့ အ‌ရည်မ ရ အဖတ်မ ရ စကား တွေ ကို အတော်သီးခံ ပြီး နားထောင် နေ ရ တယ် ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_40ee8878,မျက်​နှာ လာ မ ​ပြောင်​ နဲ့ ​ သောက် ​ ခွက် ​​ တွေ ချည် ​ းဖြတ် ​ ရိုက်​ ပစ်​ မှာ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_69de2dab,အရှက်မရှိရအောင် နင်မျက်နှာ ရှေ့ လီးလှန်ပြနေလို့လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d8c11661,သူ့ အဘ သူခိုး တွေ က လိမ်တာ လေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_107379d9,ပွဲ့ က တော့ ကြည့် ကောင်း လိမ့် မယ်တာ နဲ့ စကား မစပ် မြန်မာ သခိုး ကြီး ဘော်ချုပ် တွေ နည်းနည်း အတုယူ စေ ချင် တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3430067d,ရိုင်း တယ် လို့ တော့ မ ထင် ပါ နဲ့ ကျွန်တော် ပဲ ဆက် ပြော လိုက် မယ်လီးစား တဲ့ ကောင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_eef984ca,ခွေဖြစ်ချင်တယ်နဲတူတယ်သနားဖို့ကောင်လိုက်တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9f39f62c,ကျပ် မ ပြည့် တဲ့ သောက် ပေါ ကောင်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_b9cd1a11,ရာသက်ပန်ပိတ်ပါဒီကောင်စောက်ခွက်မမြင်ရလေကောင်လေဘဲမအေလိုးလေး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f762d84d,နင့်ကျ မှ မိုက်ရိုင်းတာ ကိုယ် လုပ် ဖူး တဲ့ အလုပ် တွေ သူ များ တကာ ကို့ လာ မ လုပ်ခိုင်း နဲ့ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_8bef7772,ငါလိုးမသားအောင်မျိုးမင်းစောက်ရူးပဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_cd560bb1,လီးကို အမျိုးပျောက်ပါလား စောက်ရူးရဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_456ce6e0,ကာပုနဲ့သန်းဌေးကိုပဲ အဖေနေရာထားကိုးကွယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_40a57f7e,ခွေးစကားနားလည်တော့ အလုပ်ဖြစ်တယ် အိမ်ကခွေးက ဟောင်ပဲဟောင်နေ အာ့ဘာလို့ဟောင်လဲ သိချင်လို့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_349ee9ac,အပျိုလဲ ဟုတ် ပဲ နဲ့ ဆု ရ တယ် ဆို ပဲ အေး နေဝင်း ဘွတ် ထား လို့ ဖွတ် လ မွတ်ကျေ နေ ပြီ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e6604302,ယောက်ျားနာမည်နဲ့ မိန်းမပုံကြီးတင်ထားကတည်းက ဖင်ခံကောင်ကြီးမှန်းလူသိတယ်။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4d72f947,ချီးထက်ပိုရွံတယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_76590bcf,ခွေးကလားလီစကား မပြောနဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_378a3506,အရှက် က တော့ တော်တော် မ ရှိ ကြ တာ ဘဲ မျက်နှာလဲတော် ၂ ပြောင် ကြ တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_75a97e14,ကမ္ဘာ မှာ ဒီကောင် တွေ ရှိ နေ သမျှ ဘယ်တော့ မှ အေးချမ်း မှာ မ ဟုတ် ဘူး ပြဿနာ မီ မွှေး တဲ့ အကောင် တွေ အပြတ် သာ ဆော် ပြစ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_dea17956,စောက် လုပ် အရှုပ်ဆုးံ သူပုန် က AA ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_51a2c67d,ထမိန်ကြားကအသက်ရှူမဝလို့အခုမှထွက်လာတာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_664ee03c,သူ များ အောက် အရှက် မ ရှိ လာ ဟောင် ကြ တယ် နော်ယူ တို့ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7ab5cda9,ဘာသာကို ဖျတ်နေတဲ့ဟာတွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_4824e698,ဟေကောင်မြို က ခွေမဲလီစကား မ ပြောနဲကွ ချီးစား တဲခွေ မဲ ရဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_850a7a05,သူတော်ကောင်း စောက် ခွက် ကလီးသရေ ရှိ လိုက် တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_11c2010b,စောက်ဆင့်မရှိဘဲ လူကြီးလုပ်နေသေး ဖွတ်ကြား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_cfe05be1,မင်းပါစပ်ကလီးနဲ့ထိုးခံရတာလား ထော်နေလို,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_167540d9,လီးလို ဘဲ ဟို က လွှတ် ပေး လိုက် ပီလေ ကွ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c0c7f441,သောက်ရူးပြောတာ သောက်ပေါပဲယုံတယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_7487c225,စောက်ရှက်တရား လေး တော့ ရှိ ပါ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f989dc31,ခွေးပြော ခွေးယုံ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ddd19b38,မိသားစု တစ် စု အတွက် ခင်ဗျား မုသား သုံး ရ တာ မ ရှက် ဖူး လား ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_6cc0b309,ဟောင် ပြန် ပြီ ကွာအိပ်ရေး ပျက် တယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a03ae26e,ဉီးနှောက်မသူံးပဲ ဖင်ပဲသုံးနေလိုက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ab0f014c,အ​ခြောက်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_a4d1d834,လိုးလင်တွေကို ထိလို့နာနေတာလား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_3daced1f,လူလိမ်ကြီးများပေါ်ကုန်ပြီ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_cd1a1db1,နိုင်ငံ့ ခေါင်းဆောင် လုပ်ဖို့ စိတ်ကူးထားရင်လည်း စကားလုံးတိုင်းကို အဆင့်အတန်း ရှိရှိသုံးနှုံး ပါ ခွေးသူခိုး ရယ် အခု မိနစ်ပိုင်းလေးမှာ သုံးနှုံးထားတဲ့ စကားလုံးတွေမှာတောင် အောက်တန်းကျတဲ့ စကားလုံးတွေ ပါနေမှတော့ နိုင်ငံတနိုင်လုံးရဲ့ ခေါင်းဆောင်နေရာကို မင်းလိုလူမျိုးကို ပေးစရာလား အောက်တန်းစား ဖွတ်ကြီးရယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_c9cd0316,စောက် ပို တွေ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_706af633,စောက် ပုံ မလား ဘူး လူ ကောင် လိုလို ဘာ လိုလို နဲ့ အထင်မ ကြီး ခွေး ကလေး တွေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_eb47f419,လက်ခလယ် ပဲ ထောင် ပြ ရ တာ ရိုး လာ လို့ လက်ညိုး လာထောင် ပြ တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_0f4bd95f,ရွံ ဖို့ ကောင်း လိုက် တာ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_164507f7,ကလိမ် က ကျစ်လုပ်ပီးဆု ရထား တာ လိမ်ညာပီ အေးမြဖြူ က မှ အဖြူ ရောင် သန့်သန့် လေး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_9d25d76d,အဲ့တော့ မင်းမေလိုး ဖြစ်လား ငါ့မိန်းမကို ဘားပြောစရာမလိုဘူ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_1ccdf522,မရလည်း သေကြအေ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_ba8d98fc,ကိုဖီအာနန်ကဲ့သို့ နိုင်ငံခြားသား၉၀ကျော်တိုင်းပြည်ဘဏ္ဍာငွေဖြင့်ငှါးရမ်းအုပ်ချုပ်ချင်ပါသေးသတဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_da601f31,လီးသီချင်း လား,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_74d2f275,လူတစ်ယောက်ပုံစံ ပြောဆိုပုံ စရိုက်ဆိုတာ မိဘနဲ့တိုက်ရိုက်အချိုးကျတယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_5696ec82,သောက်ဆင့် ကybs သုံး နှစ် ကို အမြတ်မ ရ တဲ့ သောက်ဆင့် ရှယ်ယာ သမား တွေ ဘဏ် ထဲ ထည့် တာ က မှ့ကျိန်း သေ အတိုး ရ အုံး မယ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_396f312b,ဖာသယ်မ တေရယ် လိုင်း ပေါ် မ တက် ကြ ပါ နဲ့ နင် တို့ အစား ငါ ရှက် လို့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_629556ae,လီးအဖွဲ့,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_59c5e66e,ကျက်သရေ မ ရှိ တဲ့ ခွေး သူ တောင်းစား တွေ မ ဟုတ် တာ တွေ ကို ဘဲ့ ပြော ချင် သလို ပြော နေ တာ ပစပ်စောက် ဖုပ် မှား ပြီး မွေး လာ တဲ့ အကုသိုလ်ကောင် တွေ ဘဲ ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d7c9bc7e,ဘယ်တော့ မှ စစ်တပ် က အရေးယူ မှာ မ ဟုတ်,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_e1b42f4f,ဦးနှောက် က ခေါင်း ထဲ မှာ ရှိ မှ အဆင်ပြေ မှာ နော်အမြှီး မှာ ရှိ နေ လို့ သုံး စား မ ရ တာ လား ။,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_75ec53b4,တနေ့ထမင်းတနပ်ဘဲစားခိုင်းတဲ့ဝန်ကြီးလောက်စိတ်ဓာတ်ယုတ်ညံ့သူတော့မတွေ့ဘူးသေးဘူး,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_d01bbc31,နှစ် ယောက် စလုံးလီး ရုပ်ပေါက် နေ တာ ငါ လိုး မသား ၂ ကောင် ဒဲ့ ဆဲ တယ်ကွါလီး ပဲ,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech
+mya_f3f11aa4,လိမ်ညာရှင်ပြောစမ်းပါ🤩,0,0,0,0,0,0,NULL,NULL,https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech

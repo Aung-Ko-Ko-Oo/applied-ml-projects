@@ -162,7 +162,7 @@ This takes ~5–10 minutes on CPU. The binaries will be in `marian/build/`:
 
 ### 4. Download model checkpoints
 
-Model weights are hosted on **[GitHub Releases](../../releases)** (each file is 46–67 MB, exceeding in-repo limits):
+Model weights are hosted on **[GitHub Releases](https://github.com/Aung-Ko-Ko-Oo/applied-ml-projects/releases/tag/v1.0.0)** (each file is 46–67 MB, exceeding in-repo limits):
 
 ```bash
 wget https://github.com/Aung-Ko-Ko-Oo/applied-ml-projects/releases/download/v1.0/models.zip

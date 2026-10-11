@@ -1,0 +1,28 @@
+train-sets:
+  - train.my.sp
+  - train.hi.sp
+valid-sets:
+  - valid.my.sp
+  - valid.hi.sp
+model: model_transformer_my_hi.npz
+type: transformer
+dim-emb: 256
+enc-depth: 3
+dec-depth: 3
+transformer-heads: 4
+transformer-dropout: 0.1
+learn-rate: 0.0003
+lr-warmup: 2000
+lr-decay-inv-sqrt: 2000
+clip-norm: 5
+label-smoothing: 0.1
+valid-metrics:
+  - cross-entropy
+early-stopping: 5
+valid-freq: 500
+save-freq: 500
+optimizer: adam
+optimizer-params: [0.9, 0.98, 1e-09]
+mini-batch: 32
+workspace: 2000
+beam-size: 4

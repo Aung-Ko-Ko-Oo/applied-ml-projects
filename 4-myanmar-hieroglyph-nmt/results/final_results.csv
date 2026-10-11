@@ -1,0 +1,7 @@
+Direction,Architecture,BLEU
+Myanmar → Hiero,Transformer,2.95
+Myanmar → Hiero,Seq2Seq,14.31
+Myanmar → Hiero,Ensemble,19.54
+Hiero → Myanmar,Transformer,3.62
+Hiero → Myanmar,Seq2Seq,13.58
+Hiero → Myanmar,Ensemble,21.55

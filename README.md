@@ -98,5 +98,5 @@ MIT License — see [LICENSE](LICENSE).
 ## 🙏 Acknowledgements
 
 - **Project 3 dataset**: [simbolo-ai/burmese-hatespeech](https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech) on HuggingFace
-- **Project 4 dataset**: [AIE-F-B2](https://github.com/ye-kyaw-thu/AIE-F-B2) by Ye Kyaw Thu
+- **Project 4 dataset**: [AIE-F-B2](https://github.com/ye-kyaw-thu/AIE-F-B2) by Prof Dr.Ye Kyaw Thu
 - **Project 4 framework**: [Marian NMT](https://marian-nmt.github.io/), [SentencePiece](https://github.com/google/sentencepiece)

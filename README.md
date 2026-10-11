@@ -11,6 +11,7 @@ A curated collection of end-to-end Machine Learning, Data Science, and Natural L
 | **`1-california-housing`** | Tabular / Regression | Housing Price Prediction & Feature Engineering | Python, Pandas, Scikit-Learn, XGBoost |
 | **`2-nasa-pace-ocean`** | Remote Sensing / Spatial | Ocean Color & Earth Science Data Analysis | Python, NetCDF4, Xarray, Rasterio, PyTorch |
 | **`3-POLAR-benchmark-myanmar`** | NLP / Classification | Sentiment, Polarization & Toxicity Analysis | Python, Hugging Face `datasets`, Pandas, Regex |
+| **`4-myanmar-hieroglyph-nmt`** | NLP / Translation | Myanmar ↔ Hieroglyph Neural Machine Translation | Python, Marian NMT, SentencePiece, sacreBLEU |
 
 ---
 
@@ -27,6 +28,13 @@ A curated collection of end-to-end Machine Learning, Data Science, and Natural L
 ### 3. POLAR Benchmark Dataset: Myanmar (`3-POLAR Benchmark Dataset...`)
 * **Objective**: Build a 600-sentence benchmark dataset for Myanmar (Burmese) language sentiment, polarization, and toxicity classification adhering to POLAR guidelines.
 * **Key Tasks**: Wikipedia web scraping, Hugging Face dataset sampling (`simbolo-ai/burmese-hatespeech`), custom Burmese syllable/word segmentation, and multi-label annotation (Toxicity, Insult, Identity Attack).
+
+### 4. Myanmar ↔ Hieroglyph Neural Machine Translation (`4-myanmar-hieroglyph-nmt`)
+* **Objective**: Build a Neural Machine Translation (NMT) system for bidirectional translation between **Myanmar** and **Hieroglyph** using the **Marian NMT** framework, comparing **Seq2Seq**, **Transformer**, and **Ensemble** architectures.
+* **Key Tasks**: Data visualization and analysis, SentencePiece subword tokenization (8k vocab per language), training 4 models (2 architectures × 2 directions), ensemble decoding, BLEU evaluation, and error analysis.
+* **Results**: Ensemble decoding achieves **BLEU 19.54** (My→Hi) and **BLEU 21.55** (Hi→My) — outperforming both individual architectures.
+* **Dataset**: 8,500 train / 1,000 valid / 500 test sentences (source: [AIE-F-B2](https://github.com/ye-kyaw-thu/AIE-F-B2))
+* **Models**: [Download from Releases](https://github.com/Aung-Ko-Ko-Oo/applied-ml-projects/releases/tag/v1.0.0) (~230 MB ZIP)
 
 ---
 
@@ -51,5 +59,44 @@ applied-ml-projects/
 │   ├── mya_social_simbolo_300.csv
 │   └── README.md               # Project & dataset documentation
 │
+├── 4-myanmar-hieroglyph-nmt/
+│   ├── configs/                # Marian YAML configs
+│   ├── vocab/                  # SentencePiece models (8k vocab)
+│   ├── data/                   # Tokenized train/valid/test data
+│   ├── results/                # BLEU scores & prediction files
+│   ├── docs/                   # Training logs
+│   ├── models/                 # Model checkpoints (download separately)
+│   └── README.md               # Project-specific documentation
+│
 ├── .gitignore
 └── README.md                   # Main repository overview
+```
+
+---
+
+## 🏆 Highlighted Results — Project 4
+
+| Direction | Architecture | BLEU |
+|-----------|-------------|------|
+| Myanmar → Hieroglyph | Transformer | 2.95 |
+| Myanmar → Hieroglyph | Seq2Seq | 14.31 |
+| **Myanmar → Hieroglyph** | **Ensemble** | **19.54** ⭐ |
+| Hieroglyph → Myanmar | Transformer | 3.62 |
+| Hieroglyph → Myanmar | Seq2Seq | 13.58 |
+| **Hieroglyph → Myanmar** | **Ensemble** | **21.55** ⭐ |
+
+**Download models**: [Releases v1.0.0](https://github.com/Aung-Ko-Ko-Oo/applied-ml-projects/releases/tag/v1.0.0)
+
+---
+
+## 📜 License
+
+MIT License — see [LICENSE](LICENSE).
+
+---
+
+## 🙏 Acknowledgements
+
+- **Project 3 dataset**: [simbolo-ai/burmese-hatespeech](https://huggingface.co/datasets/simbolo-ai/burmese-hatespeech) on HuggingFace
+- **Project 4 dataset**: [AIE-F-B2](https://github.com/ye-kyaw-thu/AIE-F-B2) by Ye Kyaw Thu
+- **Project 4 framework**: [Marian NMT](https://marian-nmt.github.io/), [SentencePiece](https://github.com/google/sentencepiece)
